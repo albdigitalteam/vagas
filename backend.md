@@ -28,6 +28,7 @@
 - Conhecimentos em testes automatizados
 - Git
 - Vivência em metodologias ágeis (Kanban, Scrum, etc.)
+- Design Pattern
 
 ## Não essencial, mas ótimo se tiver também:
 - AngularJS
@@ -35,8 +36,6 @@
 - React Native
 - Azure DevOps
 - Dapper
-- Design Pattern
-- TDD
 - DDD
 
 ## Comportamental
