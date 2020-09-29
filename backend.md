@@ -36,7 +36,6 @@
 - React Native
 - Azure DevOps
 - Dapper
-- DDD
 
 ## Comportamental
 
