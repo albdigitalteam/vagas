@@ -3,7 +3,7 @@
 ![](https://i.ibb.co/m8T361h/frontend-stack.jpg)
 ## Front-end
 
-[Front-End Developer](https://github.com/albdigitalteam/vagas/blob/master/frontend.md)
+[[Sênior] Front-End Developer](https://github.com/albdigitalteam/vagas/blob/master/frontend.md)
 
 ---
 
