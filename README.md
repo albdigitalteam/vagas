@@ -2,12 +2,10 @@
 
 ## Front-end
 
-[Desenvolvedor Front-End Sênior](https://airliquide.com.br)
-
-[Desenvolvedor Front-End Pleno](https://airliquide.com.br)
+[Front-End Developer](https://github.com/albdigitalteam/vagas/blob/master/frontend.md)
 
 ---
 
 ## Back-end
 
-[Desenvolvedor Back-End Sênior](https://airliquide.com.br)
+[.NET Developer](https://github.com/albdigitalteam/vagas/blob/master/backend.md)
