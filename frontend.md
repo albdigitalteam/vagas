@@ -19,8 +19,7 @@
 - Participará na concepção e solução de problemas técnicos em projetos novos e o projetos legados
 
 ## Você possui esses requisitos essenciais?
-- Experiência de 6+ anos área de TI
-- Experiência com 5+ anos de desenvolvimento como front-end
+- Experiência com 5+ anos de desenvolvimento front-end
 - Experiência com ECMAScript
 - Conhecimento em TypeScript
 - Experiência com React e React Native
