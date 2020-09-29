@@ -10,4 +10,4 @@
 ![](https://i.ibb.co/2Nx97fW/backend-stack.jpg)
 ## Back-end
 
-[.NET Sênior / Full Stack Developer](https://github.com/albdigitalteam/vagas/blob/master/backend.md)
+[[Sênior] .NET / Full Stack Developer](https://github.com/albdigitalteam/vagas/blob/master/backend.md)
