@@ -17,13 +17,13 @@
 - Participará na concepção e solução de problemas técnicos em projetos novos e o projetos legados
 
 ## Você possui esses requisitos essenciais?
-- Experiência de 4+ anos área de TI
-- Experiência com 3 anos de desenvolvimento como front-end
-- Experiência com React e React Native
+- Experiência de 6+ anos área de TI
+- Experiência com 5+ anos de desenvolvimento como front-end
 - Experiência com ECMAScript
+- Conhecimento em TypeScript
+- Experiência com React e React Native
 - Experiência com Git e GitFlow
 - Experiência com métodos ágeis (Scrum, Lean, Kanban)
-- Conhecimento em TypeScript
 - Facilidade no consumo de CLIs
 - Cultura de Clean Code
 - Gostar de sair da zona de conforto
@@ -31,11 +31,12 @@
 ## Não essencial, mas ótimo se tiver também:
 - Experiência com DevOps (CI, CD, Monitoramento, etc)
 - Cultura de qualidade e testes (unidade, integração, aceitação, e2e, etc)
+- Experiência com desenvolvimento mobile nativo (Java, Kotlin, Swift)
 - Cultura de otimização de performance
-- Conhecimento em outras linguagens de programação;
-- Conhecimento com UI & UX;
-- Inglês;
-- Disponibilidade para deslocamento e viagens para realização de entrevistas com usuários, testes e pesquisas de campo.
+- Conhecimento em outras linguagens de programação
+- Conhecimento com UI & UX
+- Inglês
+- Disponibilidade para deslocamento e viagens para realização de entrevistas com usuários, testes e pesquisas de campo
 
 
 ---
