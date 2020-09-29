@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/2Nx97fW/backend-stack.jpg)
 
-# .NET Sênior / Full Stack Developer @ Air Liquide Brasil | Digital Team
+# .NET / Full Stack Developer @ Air Liquide Brasil | Digital Team
 
 **Contratação:** PJ
 
