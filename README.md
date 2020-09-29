@@ -1,4 +1,4 @@
-# Air Liquide Brasil | Digital Transformation
+# Air Liquide Brasil | Digital Transformation Team
 
 ## Front-end
 
