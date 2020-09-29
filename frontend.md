@@ -2,7 +2,9 @@
 
 **Contratação:** PJ
 
-**Prazo indeterminado**
+**Prazo:** Indeterminado
+
+**Local:** Av. Morumbi 8234, Santo Amaro – São Paulo
 
 **Enviar e-mail para:** marilia.neves-sc@airliquide.com
 
