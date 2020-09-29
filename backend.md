@@ -10,6 +10,8 @@
 
 **Enviar e-mail para:** marilia.neves-sc@airliquide.com
 
+**Formato:** Home Office enquanto pandemia. Modelo híbrido após pandemia.
+
 ## Quais serão as suas atividades?
 
 - Desenvolver novos sistemas/projetos
