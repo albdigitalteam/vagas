@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/m8T361h/frontend-stack.jpg)
 
-# [Sênior] Front-End Developer @ Air Liquide Brasil | Digital Team
+# Front-End Developer @ Air Liquide Brasil | Digital Team
 
 **Contratação:** PJ
 
