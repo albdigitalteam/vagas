@@ -5,6 +5,8 @@
 
 [Front-End Developer](https://github.com/albdigitalteam/vagas/blob/master/frontend.md)
 
+---
+
 ![](https://i.ibb.co/2Nx97fW/backend-stack.jpg)
 ## Back-end
 
