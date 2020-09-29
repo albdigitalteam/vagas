@@ -4,6 +4,8 @@
 
 **Prazo indeterminado**
 
+**Enviar e-mail para:** marilia.neves-sc@airliquide.com
+
 ## Quais serão as suas atividades?
 
 - Desenvolver novos sistemas/projetos
