@@ -19,26 +19,31 @@
 - Participará na concepção e solução de problemas técnicos em projetos novos e o projetos legados
 
 ## Você possui esses requisitos essenciais?
-- Experiência com 5+ anos de desenvolvimento front-end
-- Experiência com ECMAScript
-- Conhecimento em TypeScript
-- Experiência com React e React Native
-- Experiência com Git e GitFlow
-- Experiência com métodos ágeis (Scrum, Lean, Kanban)
-- Facilidade no consumo de CLIs
-- Cultura de Clean Code
-- Gostar de sair da zona de conforto
+- Confortável com programação orientada a objetos;
+- Facilidade no consumo de CLIs;
+- Cultura de Clean Code;
+- Conhecimento patterns de arquitetura Front-end (Web e Mobile);
+- HTML5 + CSS3 (Pré-processadores como SASS/LESS);
+- Experiencia com NPM e ou Yarn;
+- Experiência e conhecimento com React e React Native;
+- Experiência em gerenciamento de estados com Context API / Redux e Redux Saga;
+- Experiência e conhecimento em ECMAScript e Vanilla JS;
+- Experiência e conhecimento com Styled-components;
+- Experiência com versionamento de código usando Git e GitFlow;
+- Experiência com 3 anos+ de desenvolvimento como Front-end;
+- Experiência com métodos ágeis (Scrum ou Kanban);
+- Experiência e conhecimento em TypeScript;
 
 ## Não essencial, mas ótimo se tiver também:
-- Experiência com DevOps (CI, CD, Monitoramento, etc)
-- Cultura de qualidade e testes (unidade, integração, aceitação, e2e, etc)
-- Experiência com desenvolvimento mobile nativo (Java, Kotlin, Swift)
-- Cultura de otimização de performance
-- Conhecimento em outras linguagens de programação
-- Conhecimento com UI & UX
-- Inglês
-- Disponibilidade para deslocamento e viagens para realização de entrevistas com usuários, testes e pesquisas de campo
-
+- Experiência com cultura DevOps (Pipelines, CI, CD, Monitoramento);
+- Cultura de otimização de performance;
+- Conhecimento em dados estruturados de pesquisas (SEO);
+- Disponibilidade para deslocamento e viagens para realização de entrevistas com usuários;
+- Gostar de sair da zona de conforto;
+- Hábito de realizar documentações
+- Conhecimento em outras linguagens de programação (Java, Kotlin, Swift, Objective-C ou Dart);
+- Conhecimento com UI & UX;
+- Inglês;
 
 ---
 
