@@ -8,7 +8,7 @@
 
 **Local:** Av. Morumbi 8234, Santo Amaro – São Paulo
 
-**Enviar e-mail para:** marilia.neves-sc@airliquide.com
+**Enviar e-mail para:** vitor.cazelatto-sc@airliquide.com
 
 **Formato:** Home Office enquanto pandemia. Modelo híbrido após pandemia.
 
