@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/m8T361h/frontend-stack.jpg)
 
-# Front-End Developer @ Air Liquide Brasil | Digital Team
+# Angular/Ionic Junior Developer @ Air Liquide Brasil | Digital Team
 
 **Contratação:** PJ
 
@@ -15,11 +15,11 @@
 ## Quais serão as suas atividades?
 
 - Criará produtos (softwares web e mobile) internos para uso nacional e internacional
-podendo impactar a vida de milhares de pessoas;
+  podendo impactar a vida de milhares de pessoas;
 - Irá contribuir ativamente para a cultura do time com tendências de mercado e novas
-metodologias;
+  metodologias;
 - Participará na concepção e solução de problemas técnicos em projetos novos e o projetos
-legados.
+  legados.
 
 ### **Você possui esses requisitos essenciais?**
 
@@ -42,7 +42,7 @@ legados.
 - Disponibilidade para viagens em campo (teste e pesquisa);
 - Conhecimento em outras linguagens de programação (Java, Kotlin, Swift, Objective-C ou Dart);
 - Conhecimento com UI & UX;
-- Inglês; 
+- Inglês;
 
 ---
 

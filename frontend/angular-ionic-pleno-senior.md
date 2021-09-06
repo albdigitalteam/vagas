@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/m8T361h/frontend-stack.jpg)
 
-# Front-End Developer @ Air Liquide Brasil | Digital Team
+# Angular/Ionic Pleno-Senior Developer @ Air Liquide Brasil | Digital Team
 
 **Contratação:** PJ
 
@@ -17,7 +17,7 @@
 - Criará produtos (softwares web e mobile) internos para uso nacional e internacional podendo impactar a vida de milhares de pessoas;
 - Irá contribuir ativamente para a cultura do time com tendências de mercado e novas metodologias;
 - Participará na concepção e solução de problemas técnicos em projetos novos e o projetos
-legados.
+  legados.
 
 ## **Você possui esses requisitos essenciais?**
 

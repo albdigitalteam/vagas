@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/m8T361h/frontend-stack.jpg)
 
-# Front-End Developer @ Air Liquide Brasil | Digital Team
+# React/React Native Pleno-Senior Developer @ Air Liquide Brasil | Digital Team
 
 **Contratação:** PJ
 

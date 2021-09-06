@@ -2,20 +2,21 @@
 
 [![ALB Digital Team](https://img.shields.io/badge/ALB%20Digital%20Team-friendly-blue)](https://www.npmjs.com/package/react-native-template-albdigitalteam)
 
-
 # Vagas @ Air Liquide Brasil | Digital Transformation Team
 
 ![](https://i.ibb.co/m8T361h/frontend-stack.jpg)
+
 ## Front-End
 
-[Angular/Ionic Júnior](https://github.com/albdigitalteam/vagas/blob/master/angular-ionic-junior.md) <br>
-[Angular/Ionic Pleno/Sênior](https://github.com/albdigitalteam/vagas/blob/master/angular-ionic-pleno-senior.md) <br>
-[React/React Native Júnior](https://github.com/albdigitalteam/vagas/blob/master/react-native-junior.md) <br>
-[React/React Native Pleno/Sênior](https://github.com/albdigitalteam/vagas/blob/master/react-native-pleno-senior.md) <br>
+[Angular/Ionic Junior Developer](https://github.com/albdigitalteam/vagas/blob/master/frontend/angular-ionic-junior.md) <br>
+[Angular/Ionic Pleno-Senior Developer](https://github.com/albdigitalteam/vagas/blob/master/frontend/angular-ionic-pleno-senior.md) <br>
+[React/React Native Junior Developer](https://github.com/albdigitalteam/vagas/blob/master/frontend/react-native-junior.md) <br>
+[React/React Native Pleno-Senior Developer](https://github.com/albdigitalteam/vagas/blob/master/frontend/react-native-pleno-senior.md) <br>
 
 ---
 
 ![](https://i.ibb.co/2Nx97fW/backend-stack.jpg)
+
 ## Back-End
 
 [.NET / Full Stack Developer](https://github.com/albdigitalteam/vagas/blob/master/dotnet-fullstack.md)
