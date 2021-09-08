@@ -46,7 +46,6 @@
 
 ---
 
-![](https://i.ibb.co/X4GV83K/Whats-App-Image-2020-09-29-at-10-01-09.jpg)
-![](https://i.ibb.co/jyyTGxY/Whats-App-Image-2020-09-29-at-10-01-08.jpg)
+![](https://i.ibb.co/nsZ3SBz/Group-1.png)
 
-_**Na ALB as pessoas interessadas são bem vindas em todas as vagas, independentemente de gênero, orientação sexual, raça, etnia ou deficiência.**_
+_**Na Air Liquide as pessoas interessadas são bem vindas, independentemente de gênero, orientação sexual, raça, etnia ou deficiência.**_
