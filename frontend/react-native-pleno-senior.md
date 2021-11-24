@@ -10,7 +10,7 @@
 
 **Enviar e-mail para:** matheus.souza-sc@airliquide.com
 
-**Formato:** Modelo Híbrido (Home Office + Presencial)
+**Formato:** Híbrido / Remoto
 
 ## Quais serão as suas atividades?
 
@@ -45,6 +45,6 @@
 
 ---
 
-![](https://i.ibb.co/nsZ3SBz/Group-1.png)
+<img src="https://i.ibb.co/K60cQCn/Group-1.png" alt="Air Liquide Brasil – One Center" border="0" />
 
 _**Na Air Liquide as pessoas interessadas são bem vindas, independentemente de gênero, orientação sexual, raça, etnia ou deficiência.**_
