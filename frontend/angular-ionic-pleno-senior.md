@@ -10,14 +10,13 @@
 
 **Enviar e-mail para:** matheus.souza-sc@airliquide.com
 
-**Formato:** Modelo Híbrido (Home Office + Presencial)
+**Formato:** Híbrido / Remoto
 
 ## Quais serão as suas atividades?
 
 - Criará produtos (softwares web e mobile) internos para uso nacional e internacional podendo impactar a vida de milhares de pessoas;
 - Irá contribuir ativamente para a cultura do time com tendências de mercado e novas metodologias;
-- Participará na concepção e solução de problemas técnicos em projetos novos e o projetos
-  legados.
+- Participará na concepção e solução de problemas técnicos em projetos novos e o projetos legados.
 
 ## **Você possui esses requisitos essenciais?**
 
@@ -31,7 +30,7 @@
 - Experiência com Git e GitFlow;
 - Experiência com Angular/Ionic;
 - Deseja migrar para React/React Native;
-- Conhecimento em React/React Native;
+- Conhecimento em React/React Native.
 
 ## **Não essencial, mas ótimo se tiver também:**
 
@@ -44,10 +43,10 @@
 - Hábito de realizar documentações
 - Conhecimento em outras linguagens de programação (Java, Kotlin, Swift, Objective-C ou Dart);
 - Conhecimento com UI & UX;
-- Inglês;
+- Inglês.
 
 ---
 
-![](https://i.ibb.co/nsZ3SBz/Group-1.png)
+<img src="https://i.ibb.co/K60cQCn/Group-1.png" alt="Air Liquide Brasil – One Center" border="0" />
 
 _**Na Air Liquide as pessoas interessadas são bem vindas, independentemente de gênero, orientação sexual, raça, etnia ou deficiência.**_
