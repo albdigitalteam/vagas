@@ -2,7 +2,7 @@
 
 [![ALB Digital Team](https://img.shields.io/badge/ALB%20Digital%20Team-friendly-blue)](https://www.npmjs.com/package/react-native-template-albdigitalteam)
 
-# Vagas @ Air Liquide Brasil | Digital Transformation Team
+# Vagas @ Air Liquide Brasil | Digital Team
 
 ![](https://i.ibb.co/m8T361h/frontend-stack.jpg)
 
