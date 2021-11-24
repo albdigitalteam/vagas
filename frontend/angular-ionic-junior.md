@@ -46,9 +46,9 @@
 
 ## Benefícios
 
-- Vale Refeição de R$ 30
-- Bonus anual de 160h – de acordo com metas anuais
-- 40h de descanso remunerado anual – após 1 ano de empresa
+- Vale Refeição de R$ 30;
+- Bônus anual de 160 horas – de acordo com metas anuais;
+- 40 horas anual de descanso remunerado – após 1 ano de empresa.
 
 ---
 
