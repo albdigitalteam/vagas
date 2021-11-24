@@ -10,7 +10,7 @@
 
 **Enviar e-mail para:** matheus.souza-sc@airliquide.com
 
-**Formato:** Modelo Híbrido (Home Office + Presencial)
+**Formato:** Híbrido / Remoto
 
 ## Quais serão as suas atividades?
 
@@ -29,7 +29,7 @@
 - HTML5 + CSS3 (Pré-processadores como SASS/LESS);
 - Experiência em ECMAScript e Vanilla JS;
 - Experiência com Angular/Ionic;
-- Deseja migrar para React/React Native;
+- Deseja migrar para React/React Native.
 
 ### **Não essencial, mas ótimo se tiver também:**
 
@@ -42,10 +42,10 @@
 - Disponibilidade para viagens em campo (teste e pesquisa);
 - Conhecimento em outras linguagens de programação (Java, Kotlin, Swift, Objective-C ou Dart);
 - Conhecimento com UI & UX;
-- Inglês;
+- Inglês.
 
 ---
 
-![](https://i.ibb.co/nsZ3SBz/Group-1.png)
+<img src="https://i.ibb.co/K60cQCn/Group-1.png" alt="Air Liquide Brasil – One Center" border="0" />
 
 _**Na Air Liquide as pessoas interessadas são bem vindas, independentemente de gênero, orientação sexual, raça, etnia ou deficiência.**_
