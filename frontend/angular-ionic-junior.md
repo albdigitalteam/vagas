@@ -21,7 +21,7 @@
 - Participará na concepção e solução de problemas técnicos em projetos novos e o projetos
   legados.
 
-### **Você possui esses requisitos essenciais?**
+## **Você possui esses requisitos essenciais?**
 
 - Gostar de sair da zona de conforto;
 - Confortável com programação orientada a objetos e funcional;
@@ -31,7 +31,7 @@
 - Experiência com Angular/Ionic;
 - Deseja migrar para React/React Native.
 
-### **Não essencial, mas ótimo se tiver também:**
+## **Não essencial, mas ótimo se tiver também:**
 
 - Experiência com React/React Native;
 - Conhecimento patterns de arquitetura Front-end (Web e Mobile);
@@ -44,7 +44,7 @@
 - Conhecimento com UI & UX;
 - Inglês.
 
-### Benefícios
+## Benefícios
 
 - Vale Refeição de R$ 30
 - Bonus anual de 160h – de acordo com metas anuais
