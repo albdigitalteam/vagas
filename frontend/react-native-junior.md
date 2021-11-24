@@ -43,6 +43,12 @@
 - Conhecimento com UI & UX;
 - Inglês.
 
+## Benefícios
+
+- Vale Refeição de R$ 30;
+- Bônus anual de 160 horas – de acordo com metas anuais;
+- 40 horas anual de descanso remunerado – após 1 ano de empresa.
+
 ---
 
 <img src="https://i.ibb.co/K60cQCn/Group-1.png" alt="Air Liquide Brasil – One Center" border="0" />
