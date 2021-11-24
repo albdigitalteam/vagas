@@ -8,9 +8,9 @@
 
 **Local:** Av. Morumbi 8234, Santo Amaro – São Paulo
 
-**Enviar e-mail para:** matheus.souza-sc@airliquide.com
+**Enviar e-mail para:** diego.botelho@airliquide.com
 
-**Formato:** Modelo Híbrido (Home Office + Presencial)
+**Formato:** Híbrido / Remoto
 
 ## Quais serão as suas atividades?
 
@@ -49,7 +49,6 @@
 
 ---
 
-![](https://i.ibb.co/X4GV83K/Whats-App-Image-2020-09-29-at-10-01-09.jpg)
-![](https://i.ibb.co/jyyTGxY/Whats-App-Image-2020-09-29-at-10-01-08.jpg)
+<img src="https://i.ibb.co/K60cQCn/Group-1.png" alt="Air Liquide Brasil – One Center" border="0" />
 
 _**Na ALB as pessoas interessadas são bem vindas em todas as vagas, independentemente de gênero, orientação sexual, raça, etnia ou deficiência.**_
