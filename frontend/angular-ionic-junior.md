@@ -8,9 +8,9 @@
 
 **Local:** Av. Morumbi 8234, Santo Amaro – São Paulo
 
-**Enviar e-mail para:** matheus.souza-sc@airliquide.com
-
 **Formato:** Híbrido / Remoto
+
+**Se candidatar pelo formulário:** [https://forms.gle/znYg2Abwx3NyjsRA8](https://forms.gle/znYg2Abwx3NyjsRA8)
 
 ## Quais serão as suas atividades?
 
