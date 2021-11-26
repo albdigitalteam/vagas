@@ -8,9 +8,9 @@
 
 **Local:** Av. Morumbi 8234, Santo Amaro – São Paulo
 
-**Enviar e-mail para:** diego.botelho@airliquide.com
-
 **Formato:** Híbrido / Remoto
+
+**Se candidatar pelo formulário:** [https://forms.gle/KAVZDeGzafDqbKLWA](https://forms.gle/KAVZDeGzafDqbKLWA)
 
 ## Quais serão as suas atividades?
 
