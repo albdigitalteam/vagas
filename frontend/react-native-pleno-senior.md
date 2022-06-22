@@ -14,9 +14,11 @@
 
 ## Quais serão as suas atividades?
 
-- Criará produtos (softwares web e mobile) internos para uso nacional e internacional podendo impactar a vida de milhares de pessoas;
-- Irá contribuir ativamente para a cultura do time com tendências de mercado e novas metodologias;
-- Participará na concepção e solução de problemas técnicos em projetos novos e o projetos legados.
+- Criar produtos (softwares web e mobile) internos para uso nacional e internacional
+podendo impactar a vida de milhares de pessoas;
+- Participar da implantação de um design system e criação/manutenção de bibliotecas NPM de uso comum em nossos softwares internos;
+- Contribuir técnicamente com o time aplicando code review;
+- Contribuir com melhorias estruturais de projetos de diferentes modelos de arquitetura, tais como micro front-end, (mono/multi) repo e monolitos.
 
 ## **Você possui esses requisitos essenciais?**
 
